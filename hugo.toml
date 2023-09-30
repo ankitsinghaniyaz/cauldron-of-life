@@ -44,3 +44,6 @@ name                   = "Cauldron.life"
 bio                    = "Life, travel and everything magical."
 # avatar                 = "https://cauldron.life/img/avatar.jpg" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
+
+
+graphCommentId         = "Cauldron-of-Life"
