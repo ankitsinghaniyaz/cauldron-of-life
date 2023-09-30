@@ -10,10 +10,10 @@ This brings me to thinking - what do I want from life now? I have a loving famil
 
 After thinking for a few minutes about these questions, which have been in my head for years, I can write down a few things.
 
-I want a house with a green cover and where I wake up with the sun's light on my face. Yes, you can imagine that dream vacation wakeup scene we all know, but that's what I want every day. 🏡
-I want a car that's even better to drive. Yes, I'm talking about those cars that drive fucking nice but have nil legroom for my parents at the back. 🚘
-I want maybe an even prettier wife. If you don't see my next blog, please reach out for my well-being, as my wife also reads this. 🤞
-I want to invest so I don't have to work and have financial freedom to enjoy the above 3. Lol. 😂
+1. I want a house with a green cover and where I wake up with the sun's light on my face. Yes, you can imagine that dream vacation wakeup scene we all know, but that's what I want every day. 🏡
+1. I want a car that's even better to drive. Yes, I'm talking about those cars that drive fucking nice but have nil legroom for my parents at the back. 🚘
+1. I want maybe an even prettier wife. If you don't see my next blog, please reach out for my well-being, as my wife also reads this. 🤞
+1. I want to invest so I don't have to work and have financial freedom to enjoy the above 3. Lol. 😂
 
 If you see, I have everything a man could ask for in life, but then if I don't have a new goal for more, what will be the coal I put in my engine?
 
