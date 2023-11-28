@@ -1,8 +1,9 @@
 ---
-title: "Living the remote life"
-date: 2023-11-29T23:18:56+05:30
+title: "Living the Remote Life"
+date: 2023-11-29T01:22:45+05:30
 draft: false
 ---
+
 
 Life is confusing! Isn't it? We envy what we don't have, and what we have becomes worth pebbles. I started working remotely in 2017, way before when working from home was a thing. Friends and family were almost sure that I was unemployed and probably ran some scam racket and peddled drugs. They had no other answer on how I was staying at home, chilling and still getting a decent amount of money flowing into my bank account. 🤷‍♂️
 
@@ -75,3 +76,4 @@ In my company, we ask a question every Friday: "Do you feel remote working has m
 Till I continue to answer the same, remote work is for me, and I need to stay on top of it to ensure that I am making the best of it.
 
 We meet our teammates during workations and team outings, and it's a fresh, rejuvenating experience I look forward to, but will I give up these superpowers for anything else? Heck no!
+
