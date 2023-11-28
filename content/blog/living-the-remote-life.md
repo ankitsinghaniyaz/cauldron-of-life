@@ -1,4 +1,3 @@
-
 ---
 title: "Living the remote life"
 date: 2023-11-29T23:18:56+05:30
