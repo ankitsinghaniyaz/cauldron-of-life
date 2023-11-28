@@ -1,7 +1,7 @@
 ---
 title: "China's Attempt to Checkmate India"
 date: 2022-02-27T02:05:26+05:30
-draft: false
+draft: true
 ---
 
 India is one of the emerging economies, and it is a unique country when it comes to politics. It has always taken a neutral, independent and self-conscious stand in international matters.
