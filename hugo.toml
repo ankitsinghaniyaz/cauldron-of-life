@@ -1,7 +1,7 @@
 baseURL = "https://cauldron.life"
 languageCode = "en-us"
 title = "The Cauldron of Life"
-theme = "paper"
+theme = "papermod"
 googleAnalytics = "UA-109487244-1"
 
 [[menu.main]]
