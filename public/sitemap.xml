@@ -3,16 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2024-10-24T12:38:07+05:30</lastmod>
+    <lastmod>2024-12-31T10:13:13+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/raising-a-child-to-raise-yourself/</loc>
+    <lastmod>2024-12-31T10:13:13+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-24T12:38:07+05:30</lastmod>
+    <lastmod>2024-12-31T10:13:13+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/the-kind-of-vacation-i-want/</loc>
+    <lastmod>2024-12-27T19:23:33+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/what-would-i-say-before-goodbye/</loc>
     <lastmod>2024-10-24T12:38:07+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/management-vs-productivity/</loc>
-    <lastmod>2024-10-24T12:30:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/living-the-remote-life/</loc>
     <lastmod>2023-11-29T01:22:45+05:30</lastmod>
@@ -26,17 +29,11 @@
     <loc>http://localhost:1313/blog/retire-at-thirty-then-what/</loc>
     <lastmod>2022-11-19T01:56:38+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/china-attempt-to-checkmate-india/</loc>
-    <lastmod>2022-02-27T02:05:26+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/what-kills-communication/</loc>
     <lastmod>2022-02-26T14:09:16+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/human-networks/</loc>
     <lastmod>2022-02-20T21:46:53+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/a-fair-of-life/</loc>
-    <lastmod>2022-01-24T12:18:56+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/letter-of-love/</loc>
     <lastmod>2021-03-19T00:20:41+05:30</lastmod>
@@ -86,41 +83,17 @@
     <loc>http://localhost:1313/blog/the-extra-mile/</loc>
     <lastmod>2019-01-05T10:23:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/life-as-a-lotus/</loc>
-    <lastmod>2018-11-26T00:50:55+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/the-light-within/</loc>
-    <lastmod>2018-11-07T12:38:00+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/dont-hold-the-high/</loc>
     <lastmod>2018-10-28T23:59:06+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/the-everchanging-world/</loc>
-    <lastmod>2018-10-20T13:32:20+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/unfuck-youself/</loc>
-    <lastmod>2018-10-20T13:32:20+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/life-is-all-about-balance/</loc>
-    <lastmod>2018-10-11T14:03:13+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/do-you-need-anything/</loc>
     <lastmod>2018-10-11T13:29:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/being-honest-to-oneself/</loc>
-    <lastmod>2018-10-11T13:22:15+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/trust-issues/</loc>
     <lastmod>2018-09-04T01:00:53+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/uneasey-in-my-head/</loc>
-    <lastmod>2018-07-30T11:24:23+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/what-is-meditation/</loc>
     <lastmod>2018-06-27T11:36:28+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/observing-change-in-life/</loc>
-    <lastmod>2018-06-22T22:04:38+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/importance-of-truth-in-relationship/</loc>
     <lastmod>2018-06-21T00:30:43+05:30</lastmod>
@@ -130,9 +103,6 @@
   </url><url>
     <loc>http://localhost:1313/blog/when-i-hurt/</loc>
     <lastmod>2018-06-04T11:23:31+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/how-to-simplify-my-life/</loc>
-    <lastmod>2018-04-13T10:09:54+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/men-without-women-review/</loc>
     <lastmod>2018-03-11T12:15:05+05:30</lastmod>
@@ -146,20 +116,11 @@
     <loc>http://localhost:1313/blog/the-zen-of-a-happy-life/</loc>
     <lastmod>2017-12-27T22:48:22+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/the-way-of-life/</loc>
-    <lastmod>2017-12-23T19:52:50+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/my-computer-is-like-my-girlfriend/</loc>
-    <lastmod>2017-11-28T16:09:44+05:30</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/on-the-matter-of-love/</loc>
     <lastmod>2017-11-21T02:41:29+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/an_attempt_to_live/</loc>
     <lastmod>2017-11-21T01:00:06+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/what_is_love/</loc>
-    <lastmod>2017-11-14T10:02:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/a_productive_day/</loc>
     <lastmod>2017-11-11T22:44:15+05:30</lastmod>

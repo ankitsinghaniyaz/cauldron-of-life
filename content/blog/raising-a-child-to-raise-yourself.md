@@ -31,3 +31,5 @@ I’ve also found some interesting articles that you may like to read further.
 [3] https://medium.com/@occlawson/raising-yourself-and-your-children-simultaneously-and-grow-better-together-ebe3913a44c7
 
 [4] https://www.linkedin.com/pulse/raising-ourselves-so-we-can-best-raise-our-kids-susie-barolo/
+
+[5] https://www.shellyrobinson.com/how-to-begin-reparenting-yourself/
