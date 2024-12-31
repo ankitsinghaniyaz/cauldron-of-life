@@ -6,7 +6,7 @@ draft: false
 
 We all know the story of the clever crow who used stones to get access to deep water in the earthen pot but what if I say that it's not the complete story? What if it was the utopic version of an utter disaster? And his cleverness the cause of his death?
 
-![The crow who couldn't stop](/img/dead-thirsty-crow.jpg)
+![The crow who couldn't stop](/assets/img/crow1.png)
 
 The crow, albeit clever, and with a good intension started dropping stones in the pot. When he saw the water level rise he was ecstatic. He was very thirsty but now that was not important.
 The adrenalin rush of having used his brain to get access to something that no one else could was giving him joy. He was enjoying himself and then he obsessed and here is his downfall.
