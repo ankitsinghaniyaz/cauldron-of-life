@@ -8,7 +8,7 @@ Therapy had been a buzzword amongst some people I know and on the web. Honestly,
 
 In this post, I try to share some of my learning in the last year and share it with you. I hope that you find the learning informative. 🧙‍♂️
 
-![A man thinking about therapy](/assets/img/therapy1.png)
+![A man thinking about therapy](/assets/img/health.png)
 
 
 ## A good therapist is important
