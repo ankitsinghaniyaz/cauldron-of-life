@@ -47,3 +47,6 @@ bio                    = "Life, travel and everything magical."
 
 
 graphCommentId         = "Cauldron-of-Life"
+
+[markup.goldmark.renderer]
+unsafe= true
