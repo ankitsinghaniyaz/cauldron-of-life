@@ -4,8 +4,6 @@ date: 2025-04-17T17:39:04+05:30
 draft: false
 ---
 
-# The Uneasy Mindset of Abundance
-
 I’ve spoken about this before, and I feel the need to speak about it again. Some thoughts are like chronic itches—they don’t go away with one scratch. They stay with you, just beneath the surface, quietly tapping for attention. And this one is about *abundance*.
 
 Not money exactly—though that’s what it often translates to—but the whole relationship I have with *having enough*.
