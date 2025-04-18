@@ -17,7 +17,6 @@ Absolutely.
 
 But even with all that, the feeling lingers. The world finds a way to whisper: *It’s not enough.*
 
----
 
 ## Inflation, Taxes, and a Sense of Insufficiency
 
@@ -32,7 +31,6 @@ But then a question returns: *Why are you earning all this money if not to take 
 
 And that’s where it gets complicated.
 
----
 
 ## Fairness Is a Moving Target
 
@@ -44,7 +42,6 @@ You try to be fair. But what *is* fair, really? Is saying yes the right thing? I
 
 I wonder often: is this really a scarcity issue? Or is it something deeper—an inner conflict between wisdom and generosity?
 
----
 
 ## Fatherhood and the Line We Draw
 

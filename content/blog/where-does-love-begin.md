@@ -14,7 +14,6 @@ Or was it because I nurtured them? Cared for them? Invested time, effort, water,
 
 I stood there longer, asking: *Where does love come from? What is its foundation?*
 
----
 
 ## Is Love Ownership?
 
@@ -24,7 +23,6 @@ Is that love?
 
 Or is it fascination? Attachment? A craving to possess beauty, to trap it before it fades?
 
----
 
 ## Love as Investment
 
@@ -34,7 +32,6 @@ Does love come from this investment?
 
 Or is that just pride in what we’ve shaped?
 
----
 
 ## The Question Lingers
 
