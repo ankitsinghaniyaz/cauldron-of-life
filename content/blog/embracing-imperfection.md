@@ -1,5 +1,5 @@
 ---
-title: "Embracing Imprefection"
+title: "Embracing Imperfection"
 date: 2025-06-01T00:25:00+05:30
 draft: false
 ---
