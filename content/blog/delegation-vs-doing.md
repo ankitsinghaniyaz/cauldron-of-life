@@ -1,6 +1,6 @@
 ---
-title: "Delegation vs. Doing It Yourself: A Founder's Dilemma"
-date: 2025-06-02T23:31:41+05:30
+title: "Delegation vs Doing"
+date: 2025-06-02T20:42:41+05:30
 draft: false
 ---
 
